@@ -14,4 +14,3 @@ for (int i = 0; i < array.Length; i++)
    }
 } 
 
-![Блок - схема](C:/Users/AcST/Desktop/image.jpg);
