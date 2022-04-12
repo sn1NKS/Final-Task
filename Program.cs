@@ -13,3 +13,5 @@ for (int i = 0; i < array.Length; i++)
       Console.Write(array2[i] + " ");
    }
 } 
+
+![Блок - схема](C:/Users/AcST/Desktop/image.jpg);
